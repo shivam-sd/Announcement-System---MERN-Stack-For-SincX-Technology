@@ -1,6 +1,7 @@
 node_modules/
 # Logs
 logs
+dist
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -21,3 +22,5 @@ coverage
 # .grunt)
 # Bower dependency directory (https://bower.io/)
 bower_components
+package-lock.json
+package.json
